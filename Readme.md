@@ -1,6 +1,6 @@
-# NativeBase Expo Template
+# Todo List App using Native Base UI Kit and Expo
 
-The official NativeBase template for [Expo](https://docs.expo.io/)
+To more information: https://docs.nativebase.io/
 
 ## Usage
 
